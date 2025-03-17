@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Step-by-Step Guide</title>
+    <title>Step-by-Step Guide For Ticketing System</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -34,10 +34,12 @@
         <h1>Step-by-Step Guide</h1>
         <div class="step">
             <h3>Step 1: Introduction</h3>
-            <p>Start by understanding the goal of this guide.</p>
+            <p>This is how the Ticketing System will look like first.</p>
+            <img src="https://imgur.com/a/1WcKpXg" alt="Introduction Image" width="100%">
         </div>
+
         <div class="step">
-            <h3>Step 2: Gather Materials</h3>
+            <h3>Step 2: Make a Ticket</h3>
             <p>Make sure you have everything you need before you begin.</p>
         </div>
         <div class="step">
