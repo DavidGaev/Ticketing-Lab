@@ -21,11 +21,11 @@ This is the home screen of Jira, To make a ticket you would click on the blue Cr
 <img src="https://i.imgur.com/wevv96G.png" height="80%" width="80%" alt="Ticketing System"/>
 <br />
 <br />
-This is how the ticket creation page looks like. You would select issue type and then write what issue you are facing
+This is how the ticket creation page looks like. You would select issue type and then write what issue you are facing <br/>
 <img src="https://i.imgur.com/2THa0Ue.png" height="80%" width="80%" alt="Ticketing System Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
+This is what it would look like for a IT Support individual when a ticket is written and ready to be solved <br/>
 <img src="https://i.imgur.com/b1oWKsd.png" height="80%" width="80%" alt="Ticketing System Steps"/>
 <br />
 <br />
