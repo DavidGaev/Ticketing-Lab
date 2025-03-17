@@ -35,7 +35,7 @@
         <div class="step">
             <h3>Step 1: Introduction</h3>
             <p>This is how the Ticketing System will look like first.</p>
-            <blockquote class="imgur-embed-pub" lang="en" data-id="a/1WcKpXg" data-context="false" ><a href="//imgur.com/a/1WcKpXg"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+            <img src="#1.png" alt="Introduction Image" width="100%">
         </div>
 
         <div class="step">
