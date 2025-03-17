@@ -17,11 +17,11 @@ In this Lab, I will showcase how to create and solve tickets in Jira.
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Home Screen of Jira: <br/>
+This is the home screen of Jira, To make a ticket you would click on the blue Create button. <br/>
 <img src="https://i.imgur.com/wevv96G.png" height="80%" width="80%" alt="Ticketing System"/>
 <br />
 <br />
-Select the disk:  <br/>
+This is how the ticket creation page looks like. You would select issue type and then write what issue you are facing
 <img src="https://i.imgur.com/2THa0Ue.png" height="80%" width="80%" alt="Ticketing System Steps"/>
 <br />
 <br />
