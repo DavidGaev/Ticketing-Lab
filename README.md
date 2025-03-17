@@ -18,7 +18,7 @@ In this Lab, I will showcase how to create and solve tickets in Jira.
 
 <p align="center">
 Launch the utility: <br/>
-<img src=https://github.com/DavidGaev/Ticketing-Lab/blob/7326b6560b1a5a24ddb298b5f23c4ae616e4ebd4/%231.png/>
+![image alt](https://github.com/DavidGaev/Ticketing-Lab/blob/216f2c2080fc76bdfb5e645b3f840a86e6726111/images/%231.png)
 <br />
 <br />
 Select the disk:  <br/>
