@@ -17,31 +17,31 @@ In this Lab, I will showcase how to create and solve tickets in Jira.
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/wevv96G.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Home Screen of Jira: <br/>
+<img src="https://i.imgur.com/wevv96G.png" height="80%" width="80%" alt="Ticketing System"/>
 <br />
 <br />
 Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/2THa0Ue.png" height="80%" width="80%" alt="Ticketing System Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/b1oWKsd.png" height="80%" width="80%" alt="Ticketing System Steps"/>
 <br />
 <br />
 Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/xstIi1e.png" height="80%" width="80%" alt="Ticketing System Steps"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/HFfaveY.png" height="80%" width="80%" alt="Ticketing System Steps"/>
 <br />
 <br />
 Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Kb1TJV9.png" height="80%" width="80%" alt="Ticketing System Steps"/>
 <br />
 <br />
 Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/HkWBuqu.png" height="80%" width="80%" alt="Ticketing System Steps"/>
 </p>
-![image alt](https://github.com/DavidGaev/Ticketing-Lab/blob/7326b6560b1a5a24ddb298b5f23c4ae616e4ebd4/%231.jpg.png)
+
