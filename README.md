@@ -1,64 +1,46 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Step-by-Step Guide</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 40px;
-            padding: 20px;
-            background-color: #f4f4f4;
-        }
-        .container {
-            max-width: 600px;
-            background: white;
-            padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        h1 {
-            text-align: center;
-        }
-        .step {
-            margin: 20px 0;
-            padding: 10px;
-            border-left: 5px solid #007BFF;
-            background: #e9f5ff;
-        }
-        img {
-            width: 100%;
-            max-width: 500px;
-            display: block;
-            margin: 10px auto;
-            border-radius: 5px;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>Step-by-Step Guide</h1>
-        <div class="step">
-            <h3>Step 1: Introduction</h3>
-            <p>Start by understanding the goal of this guide.</p>
-            <img src="images/#1.png" alt="Introduction Image">
-        </div>
-        <div class="step">
-            <h3>Step 2: Gather Materials</h3>
-            <p>Make sure you have everything you need before you begin.</p>
-            <img src="images/step2.jpg" alt="Gathering Materials">
-        </div>
-        <div class="step">
-            <h3>Step 3: Follow the Instructions</h3>
-            <p>Carefully go through each step to complete the process.</p>
-            <img src="images/step3.jpg" alt="Following Instructions">
-        </div>
-        <div class="step">
-            <h3>Step 4: Review</h3>
-            <p>Double-check everything to ensure accuracy.</p>
-            <img src="images/step4.jpg" alt="Reviewing Steps">
-        </div>
-    </div>
-</body>
-</html>
+<h1>Ticketing System Home Lab </h1>
+
+<h2>Description</h2>
+In this Lab, I will showcase how to create and solve tickets in Jira. 
+<br />
+
+
+<h2>Languages and Utilities Used</h2>
+
+- <b>Jira Ticketing System</b> 
+
+
+<h2>Environments Used </h2>
+
+- <b>Jira Ticketing System</b> 
+
+<h2>Program walk-through:</h2>
+
+<p align="center">
+Launch the utility: <br/>
+<img src="#1.png" height="80%" width="80%" alt="Home Page"/>
+<br />
+<br />
+Select the disk:  <br/>
+<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Enter the number of passes: <br/>
+<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Confirm your selection:  <br/>
+<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Wait for process to complete (may take some time):  <br/>
+<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Sanitization complete:  <br/>
+<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Observe the wiped disk:  <br/>
+<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
